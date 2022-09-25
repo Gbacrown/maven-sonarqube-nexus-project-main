@@ -15,9 +15,7 @@
 	<description>JavaWebApp project for Spring Boot</description>
 
 	<properties>
-		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-    		<maven.compiler.source>1.8</maven.compiler.source>
-    		<maven.compiler.target>1.8</maven.compiler.target>		
+		<java.version>1.8</java.versio			
 	</properties>
 
 	<dependencies>
